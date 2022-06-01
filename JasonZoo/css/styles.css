@@ -1,0 +1,48 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: #fefefe;
+}
+.landing
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-container
+{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    place-items: center;
+    grid-gap: 50px;
+}
+.card
+{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    border-radius: 50px;
+    background: #ffffff;
+    box-shadow:  20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;
+    transition: .25s ease;
+    border: none;
+    text-decoration: none;
+    color: #121212;
+}
+.card:hover
+{
+    box-shadow:  20px 20px 10px #d9d9d9, -20px -20px 60px #ffffff;
+    color: inherit;
+}
+.animal-name
+{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
