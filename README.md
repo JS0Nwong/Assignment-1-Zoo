@@ -3,6 +3,6 @@
 # Group Members
 <ul>
     <li> Henry Chen
-    <li> 
-    <li>
+    <li> Xiqian Yang
+    <li> Jason Wong
 </ul>
