@@ -2,7 +2,7 @@
 
 # Group Members
 <ul>
-    <li> Henry Chen
-    <li> Xiqian Yang
-    <li> Jason Wong
+    <li> Henry Chen - henry-chen109
+    <li> Xiqian Yang - xiqian1
+    <li> Jason Wong - JS0Nwong
 </ul>
