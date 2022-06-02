@@ -16,7 +16,7 @@ body
 .card-container
 {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     place-items: center;
     grid-gap: 50px;
 }
@@ -45,4 +45,31 @@ body
 {
     font-size: 1.5rem;
     font-weight: bold;
+}
+/*ANIMAL PAGE STYLING*/
+.animal-img
+{
+    height: 500px;
+}
+.img-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.animal-description
+{
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+}
+.name
+{
+    text-align: left;
+}
+.description
+{
+    font-size: 1.6rem;
 }
