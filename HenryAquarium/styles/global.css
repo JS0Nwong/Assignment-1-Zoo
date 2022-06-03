@@ -25,14 +25,14 @@ html {
   max-width: 300px;
 }
 
-.lg-animal-portrait-container {
-  /* margin-top: 5em; */
-}
-
 .lg-animal-portrait {
-  height: 250px;
+  height: 300px;
   object-fit: cover;
   border-radius: 50%;
+}
+
+.glowMod {
+  text-shadow: 0px 0px 6px rgba(255, 255, 255, 0.636);
 }
 
 @media (max-width: 775px) {
