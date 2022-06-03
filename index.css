@@ -1,5 +1,10 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
 @import url("https://fonts.googleapis.com/css2?family=Dosis:wght@800&display=swap");
+*
+{
+    margin: 0;
+    padding: 0;
+}
 
 html {
   background-color: #f9c5d1;
@@ -12,4 +17,9 @@ html {
 
 body {
   font-family: "Dosis", sans-serif;
+}
+
+::-webkit-scrollbar
+{
+  width: 0;
 }
