@@ -1,5 +1,38 @@
 body{
-    background-image: url();
+    height: 100%;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.paragraph{
+    width: 50%;
+    margin:0 auto;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.back-button{
+    text-align: center;
+    margin-top: 5%;
+}
+
+html{
+    background: rgb(34,193,195);
+    background: linear-gradient(315deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .allzoo{
@@ -15,27 +48,27 @@ body{
 }
 
 .zoo1{
-    border: 2px solid black;
+    border: 1px solid black;
 }
 .zoo1:hover{
     box-shadow: 2px 5px grey;
 }
 
 .zoo2{
-    border: 2px solid black;
+    border: 1px solid black;
 }
 .zoo2:hover{
     box-shadow: 2px 5px grey;
 }
 .zoo3{
-    border: 2px solid black;
+    border: 1px solid black;
 }
 .zoo3:hover{
     box-shadow: 2px 5px grey;
 }
 
 .zoo4{
-    border: 2px solid black;
+    border: 1px solid black;
 }
 .zoo4:hover{
     box-shadow: 2px 5px grey;
