@@ -26,7 +26,8 @@ html {
 }
 
 .lg-animal-portrait {
-  height: 300px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   border-radius: 50%;
 }
